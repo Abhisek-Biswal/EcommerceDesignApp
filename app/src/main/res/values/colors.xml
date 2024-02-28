@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tataSimplyBetter">#5B5B5B</color>
+    <color name="background_img_title">#E3EEFF</color>
+    <color name="color_icon">#B0B0B0</color>
+    <color name="verify_icon">#8CB5E5</color>
+    <color name="txt_color">#7C7C7C</color>
+    <color name="top_seller">#F9E8DB</color>
+    <color name="manufacturer">#4C4C4C</color>
+    <color name="ratings">#4861B0</color>
+    <color name="rating_background">#E7F5FF</color>
+    <color name="button_backgroud">#FAFAFA</color>
+</resources>
